@@ -1,0 +1,14 @@
+[
+    {
+        "claim_id": "C-0877",
+        "policy_no": "P-5531",
+        "loss_date": "2026-03-12",
+        "estimate_total": 600
+    },
+    {
+        "claim_id": "C-0990",
+        "policy_no": "P-7001",
+        "loss_date": "2026-09-03",
+        "estimate_total": 950
+    }
+]

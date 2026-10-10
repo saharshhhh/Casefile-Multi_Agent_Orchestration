@@ -1,0 +1,14 @@
+{
+    "P-5531": {
+        "limit": 5000,
+        "vehicle": "hatchback"
+    },
+    "P-7001": {
+        "limit": 1000,
+        "vehicle": "sedan"
+    },
+    "P-8100": {
+        "limit": 8000,
+        "vehicle": "suv"
+    }
+}

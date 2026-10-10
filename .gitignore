@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets (your API key must never be committed)
+.env
+
+# Local databases: snapshots, recorded AI replies, approvals
+*.db
+!casefile.db
+
+# Editor settings
+.vscode/
+.idea/

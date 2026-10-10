@@ -1,0 +1,680 @@
+[
+  {
+    "claim_id": "C-1001",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1529,
+    "dollars": 0.0089656
+  },
+  {
+    "claim_id": "C-1002",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1631,
+    "dollars": 0.0099856
+  },
+  {
+    "claim_id": "C-1003",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1432,
+    "dollars": 0.0084806
+  },
+  {
+    "claim_id": "C-1004",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1391,
+    "dollars": 0.0080415
+  },
+  {
+    "claim_id": "C-1005",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1541,
+    "dollars": 0.0093572
+  },
+  {
+    "claim_id": "C-1006",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1302,
+    "dollars": 0.0071903
+  },
+  {
+    "claim_id": "C-1007",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1561,
+    "dollars": 0.009557199999999998
+  },
+  {
+    "claim_id": "C-1008",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1618,
+    "dollars": 0.010098099999999999
+  },
+  {
+    "claim_id": "C-1009",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1643,
+    "dollars": 0.0103384
+  },
+  {
+    "claim_id": "C-1010",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1752,
+    "dollars": 0.0111665
+  },
+  {
+    "claim_id": "C-1011",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1608,
+    "dollars": 0.0097556
+  },
+  {
+    "claim_id": "C-1012",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1326,
+    "dollars": 0.007430300000000001
+  },
+  {
+    "claim_id": "C-1013",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1878,
+    "dollars": 0.012436199999999998
+  },
+  {
+    "claim_id": "C-1014",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1784,
+    "dollars": 0.011515599999999999
+  },
+  {
+    "claim_id": "C-1015",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1429,
+    "dollars": 0.0084312
+  },
+  {
+    "claim_id": "C-1016",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1554,
+    "dollars": 0.0094581
+  },
+  {
+    "claim_id": "C-1017",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1536,
+    "dollars": 0.0090162
+  },
+  {
+    "claim_id": "C-1018",
+    "scenario": "clean",
+    "expect": "AWAITING_APPROVAL",
+    "status": "AWAITING_APPROVAL",
+    "stop_reason": null,
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1327,
+    "dollars": 0.0074112
+  },
+  {
+    "claim_id": "C-1019",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2224,
+    "dollars": 0.011802799999999999
+  },
+  {
+    "claim_id": "C-1020",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2105,
+    "dollars": 0.010671
+  },
+  {
+    "claim_id": "C-1021",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2325,
+    "dollars": 0.0118234
+  },
+  {
+    "claim_id": "C-1022",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2394,
+    "dollars": 0.0129693
+  },
+  {
+    "claim_id": "C-1023",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2422,
+    "dollars": 0.0128904
+  },
+  {
+    "claim_id": "C-1024",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2092,
+    "dollars": 0.0105798
+  },
+  {
+    "claim_id": "C-1025",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 1986,
+    "dollars": 0.0094228
+  },
+  {
+    "claim_id": "C-1026",
+    "scenario": "inflated",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2495,
+    "dollars": 0.0135234
+  },
+  {
+    "claim_id": "C-1027",
+    "scenario": "over_limit",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2102,
+    "dollars": 0.0104373
+  },
+  {
+    "claim_id": "C-1028",
+    "scenario": "over_limit",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2062,
+    "dollars": 0.010076100000000001
+  },
+  {
+    "claim_id": "C-1029",
+    "scenario": "over_limit",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2248,
+    "dollars": 0.011907000000000001
+  },
+  {
+    "claim_id": "C-1030",
+    "scenario": "over_limit",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 1949,
+    "dollars": 0.0092468
+  },
+  {
+    "claim_id": "C-1031",
+    "scenario": "duplicate",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2007,
+    "dollars": 0.0098753
+  },
+  {
+    "claim_id": "C-1032",
+    "scenario": "duplicate",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 2037,
+    "dollars": 0.0101753
+  },
+  {
+    "claim_id": "C-1033",
+    "scenario": "duplicate",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 5,
+    "sendback_count": 1,
+    "tokens": 1847,
+    "dollars": 0.0082462
+  },
+  {
+    "claim_id": "C-1034",
+    "scenario": "bad_math",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 2258,
+    "dollars": 0.0164593
+  },
+  {
+    "claim_id": "C-1035",
+    "scenario": "bad_math",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1511,
+    "dollars": 0.0089893
+  },
+  {
+    "claim_id": "C-1036",
+    "scenario": "bad_math",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "reviewer escalated",
+    "path": [
+      "extractor",
+      "investigator",
+      "reviewer"
+    ],
+    "steps": 3,
+    "sendback_count": 0,
+    "tokens": 1240,
+    "dollars": 0.0060756000000000004
+  },
+  {
+    "claim_id": "C-1037",
+    "scenario": "unknown_policy",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "investigator failed: policy P-9999 not found",
+    "path": [
+      "extractor",
+      "investigator"
+    ],
+    "steps": 2,
+    "sendback_count": 0,
+    "tokens": 781,
+    "dollars": 0.0057827
+  },
+  {
+    "claim_id": "C-1038",
+    "scenario": "unknown_policy",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "investigator failed: policy P-9999 not found",
+    "path": [
+      "extractor",
+      "investigator"
+    ],
+    "steps": 2,
+    "sendback_count": 0,
+    "tokens": 869,
+    "dollars": 0.006856699999999999
+  },
+  {
+    "claim_id": "C-1039",
+    "scenario": "messy",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "extractor failed: reply was not valid: 2 validation errors for ExtractedClaim\nloss_date\n  Input should be a valid date or datetime, input is too short [type=date_from_datetime_parsing, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/date_from_datetime_parsing\nestimate_total\n  Input should be greater than 0 [type=greater_than, input_value=0, input_type=int]\n    For further information visit https://errors.pydantic.dev/2.13/v/greater_than",
+    "path": [
+      "extractor"
+    ],
+    "steps": 1,
+    "sendback_count": 0,
+    "tokens": 1556,
+    "dollars": 0.0138625
+  },
+  {
+    "claim_id": "C-1040",
+    "scenario": "messy",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "extractor failed: reply was not valid: 3 validation errors for ExtractedClaim\nloss_date\n  Input should be a valid date or datetime, input is too short [type=date_from_datetime_parsing, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/date_from_datetime_parsing\nline_items\n  List should have at least 1 item after validation, not 0 [type=too_short, input_value=[], input_type=list]\n    For further information visit https://errors.pydantic.dev/2.13/v/too_short\nestimate_total\n  Input should be a valid number [type=float_type, input_value=None, input_type=NoneType]\n    For further information visit https://errors.pydantic.dev/2.13/v/float_type",
+    "path": [
+      "extractor"
+    ],
+    "steps": 1,
+    "sendback_count": 0,
+    "tokens": 756,
+    "dollars": 0.0059595
+  },
+  {
+    "claim_id": "C-1041",
+    "scenario": "oversized",
+    "expect": "ESCALATED",
+    "status": "ESCALATED",
+    "stop_reason": "extractor failed: next call could go over the budget",
+    "path": [
+      "extractor"
+    ],
+    "steps": 1,
+    "sendback_count": 0,
+    "tokens": 0,
+    "dollars": 0.0
+  }
+]
