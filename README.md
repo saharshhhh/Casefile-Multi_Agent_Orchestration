@@ -66,10 +66,10 @@ Terminal and resting states: `AWAITING_APPROVAL` (paused for a human), `DONE`, `
 
 ```
         SUPERVISOR  (deterministic router, not an LLM)
-   +--------+---------+-----------+
-   v        v         v           |
+   +------------+-----------+-----------+
+   v            v           v           |
 EXTRACTOR  INVESTIGATOR  REVIEWER ---(send back, capped)--> INVESTIGATOR
-                          |
+                            |
                   HUMAN APPROVAL GATE --> write-back to the claims system
 ```
 
